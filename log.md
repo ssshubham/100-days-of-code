@@ -16,3 +16,12 @@
 **Thoughts**: It was good to know about different styling elements. Today was a bit more interesting after I got likes on twitter posts. It was my first post. 
 
 **Link(s) to work**: [FreeCodeCamp](https://www.freecodecamp.org/learn/)
+
+
+### Day 2: December 28, 2020
+
+**Today's Progress**: Continued and completed basic CSS. Started with Applied Visual Design. Learned about text-align, background-color, shadow, strikethrough, underline, bold, root element, font-weight, font-size, line height, rgb colors, css variables and media queries.   
+
+**Thoughts**: Earlier I thought that CSS is very easy. But after today's session I felt like, it is becoming more and more complex. Lot's of things to remember. But I feel good to know these things.  
+
+**Link(s) to work**: [FreeCodeCamp](https://www.freecodecamp.org/learn/)
