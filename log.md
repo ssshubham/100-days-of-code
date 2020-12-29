@@ -25,3 +25,11 @@
 **Thoughts**: Earlier I thought that CSS is very easy. But after today's session I felt like, it is becoming more and more complex. Lot's of things to remember. But I feel good to know these things.  
 
 **Link(s) to work**: [FreeCodeCamp](https://www.freecodecamp.org/learn/)
+
+### Day 3: December 29, 2020
+
+**Today's Progress**: Completed Responsive web design principles, applied accessibility and applied visual design.    
+
+**Thoughts**: After joining with few people on gitter I have given more time than just 1 hour so that I can match up with other team members. 
+
+**Link(s) to work**: [FreeCodeCamp](https://www.freecodecamp.org/learn/)
