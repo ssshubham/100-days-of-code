@@ -41,3 +41,11 @@
 **Thoughts**: Still not sure whether I will be able to finish projects or not. 
 
 **Link(s) to work**: [FreeCodeCamp](https://www.freecodecamp.org/learn/)
+
+### Day 5: December 31, 2020
+
+**Today's Progress**: Completed Tribute page. All test cases passed.      
+
+**Thoughts**: Getting a sense of accomplishment after completing atleast 1 project. Going strong towards Survey form project. 
+
+**Link(s) to work**: [Codepen tribute page link](https://codepen.io/ssshubham/full/KKgQyzv)
