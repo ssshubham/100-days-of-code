@@ -33,3 +33,11 @@
 **Thoughts**: After joining with few people on gitter I have given more time than just 1 hour so that I can match up with other team members. 
 
 **Link(s) to work**: [FreeCodeCamp](https://www.freecodecamp.org/learn/)
+
+### Day 4: December 30, 2020
+
+**Today's Progress**: Completed CSS flexbox and Grid. To start with the projects.     
+
+**Thoughts**: Still not sure whether I will be able to finish projects or not. 
+
+**Link(s) to work**: [FreeCodeCamp](https://www.freecodecamp.org/learn/)
