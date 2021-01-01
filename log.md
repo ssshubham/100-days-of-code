@@ -26,6 +26,7 @@
 
 **Link(s) to work**: [FreeCodeCamp](https://www.freecodecamp.org/learn/)
 
+
 ### Day 3: December 29, 2020
 
 **Today's Progress**: Completed Responsive web design principles, applied accessibility and applied visual design.    
@@ -33,6 +34,7 @@
 **Thoughts**: After joining with few people on gitter I have given more time than just 1 hour so that I can match up with other team members. 
 
 **Link(s) to work**: [FreeCodeCamp](https://www.freecodecamp.org/learn/)
+
 
 ### Day 4: December 30, 2020
 
@@ -42,6 +44,7 @@
 
 **Link(s) to work**: [FreeCodeCamp](https://www.freecodecamp.org/learn/)
 
+
 ### Day 5: December 31, 2020
 
 **Today's Progress**: Completed Tribute page. All test cases passed.      
@@ -49,3 +52,12 @@
 **Thoughts**: Getting a sense of accomplishment after completing atleast 1 project. Going strong towards Survey form project. 
 
 **Link(s) to work**: [Codepen tribute page link](https://codepen.io/ssshubham/full/KKgQyzv)
+
+
+### Day 6: January 1, 2021
+
+**Today's Progress**: Completed Survey Page and Product Landing Page. All test cases passed.      
+
+**Thoughts**: Feeling good after completing this on my own. 3 projects done. Going for Technical Documentation Page. 
+
+**Link(s) to work**: [MakeMyTrip Survey page link](https://codepen.io/ssshubham/full/KKgQQYa) [Product Landing Page](https://codepen.io/ssshubham/full/MWjQXKK)
