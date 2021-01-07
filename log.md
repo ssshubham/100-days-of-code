@@ -61,3 +61,57 @@
 **Thoughts**: Feeling good after completing this on my own. 3 projects done. Going for Technical Documentation Page. 
 
 **Link(s) to work**: [MakeMyTrip Survey page link](https://codepen.io/ssshubham/full/KKgQQYa) [Product Landing Page](https://codepen.io/ssshubham/full/MWjQXKK)
+
+### Day 7: January 2, 2021
+
+**Today's Progress**: Completed Technical Documentation. All test cases passed.      
+
+**Thoughts**: It was comfortable to develop this page. 
+
+**Link(s) to work**: [Technical Documentation Page](https://codepen.io/ssshubham/full/abmqXZW)
+
+
+### Day 8: January 3, 2021
+
+**Today's Progress**: Started with Javascript basics. Completed Personal Portfolio Page. All test cases passed.      
+
+**Thoughts**: Feeling good after getting Responsive web design certificate. Personal portfolio was a ittle difficult than other projects.
+
+**Link(s) to work**: [Personal Portfolio](https://codepen.io/ssshubham/full/LYRddQa)
+
+
+### Day 9: January 4, 2021
+
+**Today's Progress**: Going through basics of Javascript. Completed 69/111   
+
+**Thoughts**: Does not looks complicated till this time. Javascript seems to more like Java. 
+
+**Link(s) to work**: [Freecodecamp Page](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+
+
+### Day 10: January 5, 2021
+
+**Today's Progress**: Completed with Javascript basics. Started with Javascript ES6.      
+
+**Thoughts**: Quite a lot of difference from Java. Few points needs to be revisited.  
+
+**Link(s) to work**: [Freecodecamp Page](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/)
+
+
+### Day 11: January 6, 2021
+
+**Today's Progress**: Going through Javascript ES6.      
+
+**Thoughts**: Great options provided by Javascript. 
+
+**Link(s) to work**: [Freecodecamp Page](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/)
+
+
+### Day 12: January 7, 2021
+
+**Today's Progress**: Completed with Javascript ES6.      
+
+**Thoughts**: Geeting a feeling that I will forget these lessons soon.
+
+**Link(s) to work**: [Freecodecamp Page](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/)
+
